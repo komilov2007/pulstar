@@ -113,6 +113,11 @@ a:hover {
   .container {
     max-width: 400px;
     margin: 0 auto;
+    padding: 20px;
+  }
+  body {
+    width: 100%;
+    overflow-x: hidden;
   }
   header button {
     display: none;
@@ -122,6 +127,12 @@ a:hover {
   }
   .magazin img {
     width: 10px;
+  }
+  .section-3 {
+    display: flex;
+    justify-content: center;
+    width: 400px;
+    margin-left: 50px;
   }
   .buy-btn {
     font-size: 7px;
