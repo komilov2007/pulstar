@@ -1,0 +1,75 @@
+.section-6 {
+  background-color:#3F3B3D;
+  width: 100%;
+  height: 740px;
+}
+.s6-top h1 {
+  color: var(--white-color);
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+.s6-img {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+}
+.s6-text2 a {
+  color: #dceae9;
+}
+.s6-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 40px;
+}
+.s6-btm {
+  background-color: white;
+  width: 500px;
+  height: 3px;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+.s6-text p {
+  color: white;
+  font-size: 24px;
+}
+.s6-top h1 {
+    color: white;
+}
+
+.s6-text,
+.s6-text2,
+.s6-text3,
+.s6-text4 {
+  display: flex;
+  flex-direction: column;
+}
+.s6-text2 a {
+  font-size: 16px;
+  text-decoration: none;
+  font-family: 'Roboto';
+}
+.s6-text2 a:first-child {
+  padding-bottom: 10px;
+}
+.s6-text3 a {
+  font-size: 16px;
+  text-decoration: none;
+  font-family: 'Roboto';
+  color: white;
+}
+.s6-text3 a:first-child {
+  padding-bottom: 10px;
+}
+.s6-text4 a {
+  font-size: 16px;
+  text-decoration: none;
+  font-family: 'Roboto';
+  color:white;
+}
+.s6-text4 a:first-child {
+  padding-bottom: 10px;
+}
+.magazin img {
+  display: flex;
+}

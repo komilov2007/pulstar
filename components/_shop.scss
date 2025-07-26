@@ -1,0 +1,47 @@
+
+.section-1 {
+    margin-top: 80px;
+}
+
+.oq-text {
+  color: white;
+}
+.sect1-color {
+    background-color: #3F3B3D;
+    width: 100%;
+    height: 482px;
+    z-index: -2;
+    position: relative;
+}
+.sect1-btn p {
+  font-size: 33px;
+  color: var(--white-color);
+  font-family: 'Roboto';
+}
+.sect1-btn {
+  position: absolute;
+  left: 65px;
+  bottom: 65px;
+}
+.swiper {
+  width: 768px;
+  position: absolute;
+  top: 80px;
+  left: 550px;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #444;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

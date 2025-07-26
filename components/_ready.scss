@@ -1,0 +1,21 @@
+.section-2 {
+  margin-top: 100px;
+}
+.section-2 h6 {
+  color: var(--paragraph-color);
+  margin-bottom: 20px;
+}
+.sect2-top {
+  font-size: 27px;
+  font-family: 'Roboto';
+}
+.sect2-bottom {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+}
+.sect2-bottom img {
+  display: flex;
+  justify-self: center;
+  margin-top: 60px;
+}
