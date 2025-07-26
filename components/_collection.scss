@@ -2,6 +2,7 @@
   display: flex;
   gap: 8px;
   margin-top: 70px;
+  justify-content: center;
   
 }
 .txm-btm {
@@ -17,10 +18,12 @@
 .sect3-bottom {
   display: flex;
   justify-content: center;
+  align-items: center;
   gap: 18px;
   margin-left: 23px;
   margin-top: 10px;
   color: white;
+  
 }
 .s3-btm1 {
   background-image: linear-gradient(transparent, rgb(21, 21, 21) 100%),
