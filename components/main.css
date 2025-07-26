@@ -90,12 +90,16 @@ nav a:hover {
   margin-top: 80px;
 }
 
+.sect1-btn .oq-text {
+  color: white;
+}
+
 .oq-text {
   color: white;
 }
 
 .sect1-color {
-  background-color: #3F3B3D;
+  background-color: #3f3b3d;
   width: 100%;
   height: 482px;
   z-index: -2;
@@ -117,8 +121,8 @@ nav a:hover {
 .swiper {
   width: 768px;
   position: absolute;
-  top: 80px;
-  left: 550px;
+  top: 82px;
+  left: 555px;
 }
 
 .swiper-slide {
